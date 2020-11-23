@@ -1,8 +1,6 @@
 /*
  * Baseboard.h
  *
- *  Created on: 27 de sept. de 2017
- *      Author: Cristian
  */
 
 #ifndef BASEBOARD_H_

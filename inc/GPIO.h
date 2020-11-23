@@ -1,8 +1,5 @@
 /*
  * GPIO.h
- *
- *  Created on: 27 de sept. de 2017
- *      Author: Cristian
  */
 
 #ifndef GPIO_H_

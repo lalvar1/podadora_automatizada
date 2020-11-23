@@ -1,8 +1,5 @@
 /*
  * IAP.h
- *
- *  Created on: 1 de oct. de 2017
- *      Author: Cristian
  */
 
 #ifndef IAP_H_

@@ -1,8 +1,5 @@
 /*
  * control.c
- *
- *  Created on: 11 de ene. de 2018
- *      Author: Cristian
  */
 #include "aplicacion.h"
 

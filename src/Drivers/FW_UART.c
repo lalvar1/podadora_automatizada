@@ -1,8 +1,5 @@
 /*
  * FW_UART.c
- *
- *  Created on: 27 de sept. de 2017
- *      Author: Cristian
  */
 
 #include "aplicacion.h"

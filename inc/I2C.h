@@ -1,8 +1,5 @@
 /*
  * I2C.h
- *
- *  Created on: 27 de sept. de 2017
- *      Author: Cristian
  */
 
 #ifndef I2C_H_

@@ -1,8 +1,5 @@
 /*
  * PWM.c
- *
- *  Created on: 11 de nov. de 2017
- *      Author: Cristian
  */
 
 #include "aplicacion.h"

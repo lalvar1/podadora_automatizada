@@ -1,8 +1,5 @@
 /*
  * RegLPC1769.h
- *
- *  Created on: 27 de sept. de 2017
- *      Author: Cristian
  */
 
 #ifndef REGLPC1769_H_

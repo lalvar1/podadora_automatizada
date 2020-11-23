@@ -1,8 +1,5 @@
 /*
  * UART.h
- *
- *  Created on: 27 de sept. de 2017
- *      Author: Cristian
  */
 
 #ifndef UART_H_

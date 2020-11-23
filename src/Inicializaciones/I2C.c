@@ -1,8 +1,5 @@
 /*
  * I2C.c
- *
- *  Created on: 27 de sept. de 2017
- *      Author: Cristian
  */
 
 #include "Aplicacion.h"

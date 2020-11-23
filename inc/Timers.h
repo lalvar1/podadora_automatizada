@@ -1,8 +1,5 @@
 /*
  * Timers.h
- *
- *  Created on: 22 de feb. de 2018
- *      Author: Cristian
  */
 
 #ifndef TIMERS_H_

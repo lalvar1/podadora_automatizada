@@ -1,8 +1,5 @@
 /*
  * FW_ADC.c
- *
- *  Created on: 19 de ene. de 2018
- *      Author: Cristian
  */
 
 

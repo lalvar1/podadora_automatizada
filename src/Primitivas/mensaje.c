@@ -1,8 +1,5 @@
 /*
  * mensaje.c
- *
- *  Created on: 10 de mar. de 2018
- *      Author: Cristian
  */
 
 #include "aplicacion.h"

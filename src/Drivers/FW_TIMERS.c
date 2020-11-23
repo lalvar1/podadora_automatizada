@@ -1,8 +1,5 @@
 /*
  * FW_TIMERS.c
- *
- *  Created on: 22 de feb. de 2018
- *      Author: Cristian
  */
 
 #include "Aplicacion.h"

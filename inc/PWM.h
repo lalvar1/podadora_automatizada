@@ -1,8 +1,5 @@
 /*
  * PWM.h
- *
- *  Created on: 11 de nov. de 2017
- *      Author: Cristian
  */
 
 #ifndef PWM_H_
